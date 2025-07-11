@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌐 Web Development & AI Enthusiast | Fourth-Year Computer Science Student<br><br>I’m Ammar Mohammad Alhmoud, a fourth-year student at Üsküdar University with a passion for web development and artificial intelligence. Experienced as a Project Intern at SCRAMBLEBIT, I have a strong foundation in both front-end and back-end development, using technologies like React.js, Express.js, Node.js, and Firebase. Skilled in SQL, MySQL, MongoDB, and proficient with tools such as Git, GitHub, and Visual Studio.<br><br>With a background in algorithms, data structures, and object-oriented programming, I’m excited to grow in tech and contribute to impactful projects.
+Web Development & AI Enthusiast | Software Engineering Graduate (2021–2025)
+
+Hi! I’m Ammar Mohammad Alhmoud, a recent Software Engineering graduate from Üsküdar University with a strong passion for web development and a growing interest in artificial intelligence. I have hands-on experience contributing to real-world projects using modern full-stack technologies like React.js, Node.js, Express.js, and Firebase.
+
+I'm proficient in both relational and NoSQL databases (SQL, MySQL, MongoDB), and well-versed in tools such as Git, GitHub and firebase. With a solid background in algorithms, data structures, and object-oriented programming, I’m eager to explore AI more deeply and contribute to impactful, innovative projects.
 
 
 ## 🌐 Socials:
